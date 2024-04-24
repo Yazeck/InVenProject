@@ -27,9 +27,16 @@ Use
 Sign in using the credentials provided (in development).
 Navigate between the different sections of the application using the menu below:
 Sales: Manage sales records.
+
 Purchases: Manage purchase records.
 Inventory: Manage inventory items.
 Summary: Keep balances and generate monthly reports.
+
+Alien Systems Team Members:
+Estefania Renteria
+Magaly Espinoza
+Erick Nungaray
+
 Contributions
 Contributions are welcome. Please open a new issue or pull request if you have any improvements or corrections.
 
